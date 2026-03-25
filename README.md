@@ -1,16 +1,30 @@
-## Hi there 👋
+👋 Hey, I'm Cristian 
 
-<!--
-**Kriss-ML/Kriss-ML** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Python & Machine Learning Specialist
+🚀 Web Developer in Progress (HTML, CSS, JavaScript, PHP)
+🔥 Passionate about building real-world projects
+🎯 Open to Junior Developer Opportunities
 
-Here are some ideas to get you started:
+🧠 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a developer specialized in Python and Machine Learning, currently expanding my skills into web development.
+I enjoy creating practical projects that solve real problems and help me grow as a developer.
+
+🚀 Skills
+🐍 Python (Advanced)
+🤖 Machine Learning
+🌐 HTML, CSS, JavaScript
+🛠️ PHP (Learning)
+📊 Data Analysis
+📂 Projects
+
+🔹 Coming soon... (currently building real-world projects 🚀)
+
+📈 Goals
+Contribute to open source
+Land my first developer job 💼🔥
+📫 Contact
+📧 Email: cristianchacon.es@gmail.com
+💼 LinkedIn: https://www.linkedin.com/in/cristian-arturo-chacon/
+
+⭐ Thanks for visiting my profile!
